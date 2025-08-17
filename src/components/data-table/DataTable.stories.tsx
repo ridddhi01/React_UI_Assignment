@@ -11,7 +11,7 @@ type Row = {
 };
 
 const defaultData: Row[] = [
-  { id: 1, name: "riddhi", email: "alice@mail.com", role: "Admin" },
+  { id: 1, name: "Alice", email: "alice@mail.com", role: "Admin" },
   { id: 2, name: "Bob", email: "bob@mail.com", role: "User" },
   { id: 3, name: "Charlie", email: "charlie@mail.com", role: "Manager" },
   { id: 4, name: "Diana", email: "diana@mail.com", role: "User" },
