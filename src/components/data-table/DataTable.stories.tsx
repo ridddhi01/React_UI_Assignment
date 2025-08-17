@@ -176,7 +176,15 @@ export const EmptyState: Story = {
   args: {
     data: [],
   },
+  parameters: {
+    docs: {
+      description: {
+        story: "This shows the table when no data is available.",
+      },
+    },
+  },
 };
+
 
 // loadingstate
 export const LoadingState: Story = {

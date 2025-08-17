@@ -173,7 +173,7 @@ type Story = StoryObj<typeof InputField>;
 
 export const Default: Story = {
   args: {
-    label: 'Default Input',
+    label: 'Default Input(updated)',
     placeholder: 'Enter text here...',
   },
 };
