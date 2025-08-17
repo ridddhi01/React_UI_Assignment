@@ -1,10 +1,10 @@
 
 > react-ui-assignment@0.1.0 build-storybook
-> storybook build --output-dir=/var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--54402-276mO3L5oWRP
+> storybook build --output-dir=/var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--55285-Iqv0seztcmiS
 
 [1mstorybook v9.1.2
 [22m
-info => Cleaning outputDir: [36m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--54402-276mO3L5oWRP[39m
+info => Cleaning outputDir: [36m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--55285-Iqv0seztcmiS[39m
 info => Loading presets
 info => Building manager..
 info => Building preview..
@@ -14,19 +14,19 @@ transforming...
 [32m✓[39m 1718 modules transformed.
 rendering chunks...
 computing gzip size...
-[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--54402-276mO3L5oWRP/[22m[32miframe.html                               [39m[1m[2m   18.13 kB[22m[1m[22m[2m │ gzip:   5.13 kB[22m
-[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--54402-276mO3L5oWRP/[22m[2massets/[22m[35miframe-DzSz6rg8.css                [39m[1m[2m   19.55 kB[22m[1m[22m[2m │ gzip:   3.81 kB[22m
-[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--54402-276mO3L5oWRP/[22m[2massets/[22m[36mindex-CV9F3EG1.js                  [39m[1m[2m    0.46 kB[22m[1m[22m[2m │ gzip:   0.30 kB[22m
-[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--54402-276mO3L5oWRP/[22m[2massets/[22m[36mpreload-helper-C1FmrZbK.js         [39m[1m[2m    1.14 kB[22m[1m[22m[2m │ gzip:   0.68 kB[22m
-[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--54402-276mO3L5oWRP/[22m[2massets/[22m[36mloader-circle-R9Ebr_dZ.js          [39m[1m[2m    2.13 kB[22m[1m[22m[2m │ gzip:   0.88 kB[22m
-[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--54402-276mO3L5oWRP/[22m[2massets/[22m[36mDataTable.stories-BrwdzgKS.js      [39m[1m[2m    4.36 kB[22m[1m[22m[2m │ gzip:   1.59 kB[22m
-[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--54402-276mO3L5oWRP/[22m[2massets/[22m[36mInputField.stories-C4cY7x1o.js     [39m[1m[2m    7.73 kB[22m[1m[22m[2m │ gzip:   2.48 kB[22m
-[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--54402-276mO3L5oWRP/[22m[36mvite-inject-mocker-entry.js               [39m[1m[2m   29.18 kB[22m[1m[22m[2m │ gzip:  10.08 kB[22m
-[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--54402-276mO3L5oWRP/[22m[2massets/[22m[36mColor-AVL7NMMY-CNICLG5v.js         [39m[1m[2m   29.38 kB[22m[1m[22m[2m │ gzip:  10.94 kB[22m
-[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--54402-276mO3L5oWRP/[22m[2massets/[22m[36mmatchers-7Z3WT2CE-T3xScrR7.js      [39m[1m[2m   29.79 kB[22m[1m[22m[2m │ gzip:  10.24 kB[22m
-[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--54402-276mO3L5oWRP/[22m[2massets/[22m[36mreact-18-BHFgLAgV.js               [39m[1m[2m  134.81 kB[22m[1m[22m[2m │ gzip:  43.53 kB[22m
-[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--54402-276mO3L5oWRP/[22m[2massets/[22m[36maxe-qdf9evWV.js                    [39m[1m[33m  572.48 kB[39m[22m[2m │ gzip: 157.87 kB[22m
-[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--54402-276mO3L5oWRP/[22m[2massets/[22m[36mDocsRenderer-PQXLIZUC-BgVdhM-T.js  [39m[1m[33m  664.40 kB[39m[22m[2m │ gzip: 217.03 kB[22m
-[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--54402-276mO3L5oWRP/[22m[2massets/[22m[36miframe-C0SBFwAQ.js                 [39m[1m[33m1,234.42 kB[39m[22m[2m │ gzip: 342.09 kB[22m
-[32m✓ built in 2.77s[39m
-info => Output directory: /var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--54402-276mO3L5oWRP
+[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--55285-Iqv0seztcmiS/[22m[32miframe.html                               [39m[1m[2m   18.13 kB[22m[1m[22m[2m │ gzip:   5.13 kB[22m
+[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--55285-Iqv0seztcmiS/[22m[2massets/[22m[35miframe-DzSz6rg8.css                [39m[1m[2m   19.55 kB[22m[1m[22m[2m │ gzip:   3.81 kB[22m
+[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--55285-Iqv0seztcmiS/[22m[2massets/[22m[36mindex-mZgEFwJI.js                  [39m[1m[2m    0.46 kB[22m[1m[22m[2m │ gzip:   0.30 kB[22m
+[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--55285-Iqv0seztcmiS/[22m[2massets/[22m[36mpreload-helper-C1FmrZbK.js         [39m[1m[2m    1.14 kB[22m[1m[22m[2m │ gzip:   0.68 kB[22m
+[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--55285-Iqv0seztcmiS/[22m[2massets/[22m[36mloader-circle-DI-X5ecJ.js          [39m[1m[2m    2.13 kB[22m[1m[22m[2m │ gzip:   0.87 kB[22m
+[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--55285-Iqv0seztcmiS/[22m[2massets/[22m[36mDataTable.stories-C8WhpBmZ.js      [39m[1m[2m    4.59 kB[22m[1m[22m[2m │ gzip:   1.66 kB[22m
+[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--55285-Iqv0seztcmiS/[22m[2massets/[22m[36mInputField.stories-BiJixdys.js     [39m[1m[2m    7.75 kB[22m[1m[22m[2m │ gzip:   2.48 kB[22m
+[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--55285-Iqv0seztcmiS/[22m[36mvite-inject-mocker-entry.js               [39m[1m[2m   29.18 kB[22m[1m[22m[2m │ gzip:  10.08 kB[22m
+[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--55285-Iqv0seztcmiS/[22m[2massets/[22m[36mColor-AVL7NMMY-BVTTA2Kt.js         [39m[1m[2m   29.38 kB[22m[1m[22m[2m │ gzip:  10.94 kB[22m
+[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--55285-Iqv0seztcmiS/[22m[2massets/[22m[36mmatchers-7Z3WT2CE-T3xScrR7.js      [39m[1m[2m   29.79 kB[22m[1m[22m[2m │ gzip:  10.24 kB[22m
+[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--55285-Iqv0seztcmiS/[22m[2massets/[22m[36mreact-18-BtSmaO0C.js               [39m[1m[2m  134.81 kB[22m[1m[22m[2m │ gzip:  43.53 kB[22m
+[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--55285-Iqv0seztcmiS/[22m[2massets/[22m[36maxe-jTH2S54h.js                    [39m[1m[33m  572.48 kB[39m[22m[2m │ gzip: 157.87 kB[22m
+[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--55285-Iqv0seztcmiS/[22m[2massets/[22m[36mDocsRenderer-PQXLIZUC-C5JUrOv8.js  [39m[1m[33m  664.40 kB[39m[22m[2m │ gzip: 217.03 kB[22m
+[2m../../../../var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--55285-Iqv0seztcmiS/[22m[2massets/[22m[36miframe-BotA2Mi6.js                 [39m[1m[33m1,234.42 kB[39m[22m[2m │ gzip: 342.08 kB[22m
+[32m✓ built in 2.90s[39m
+info => Output directory: /var/folders/ff/h4rddnvd32g0fqp5z2s10mz00000gn/T/chromatic--55285-Iqv0seztcmiS
